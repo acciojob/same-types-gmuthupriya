@@ -1,11 +1,11 @@
 function isSameType(value1, value2) {
   
 	if (value1===value2) {
-		console.log("true");
+		return true;
 		
 	}
 	else{
-		console.log("false");
+		return false;
 		
 }
 
